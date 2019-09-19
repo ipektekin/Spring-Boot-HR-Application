@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ipektekin
+Build-Jdk: 10.0.1
+Implementation-Title: hr-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.kodgemisi.interview
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/hr-app
+Created-By: Maven Integration for Eclipse
+
